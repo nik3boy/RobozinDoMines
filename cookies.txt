@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+escamboo.com	TRUE	/	FALSE	1999999999	yAVGZIgc	msiFrR
+escamboo.com	TRUE	/	FALSE	1999999999	aTfKZoztQySgG	0E39wZKP82o
+escamboo.com	TRUE	/	FALSE	1999999999	kpFUIe	kGwSIbFUg%2A
+escamboo.com	TRUE	/	FALSE	1999999999	ZMfKL_	V2tLGDnUMrT
+
